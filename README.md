@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Carlos
 
 - 🔭 Hoje trabalho como desenvolvedor back-end
-- 🌱 Estudando Laravel, NestJS e Flutter
+- 🌱 Estudando Laravel e NestJS
 - 💻 Cursando Bacharelado em Ciência da Computação
 
 <p align="center">
