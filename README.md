@@ -1,8 +1,6 @@
 ### Olá! Eu sou o João Carlos
 
 - 🔭 Hoje trabalho como desenvolvedor back-end
-- 🌱 Estudando Spring Boot e NestJS
-- 💻 Cursando Bacharelado em Ciência da Computação
 
 <p align="center">
 <a href="https://github.com/jaocarlos29">
